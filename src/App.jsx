@@ -60,7 +60,7 @@ function App() {
       link: 'https://youtu.be/NlP3LR5SjfU',
     },
     {
-      title: 'Terminal + Tutorial',
+      title: 'Terminal',
       description: 'O terminal, ou linha de comando, é uma interface de texto para interagir com seu computador. Permite que você execute comandos para realizar várias tarefas.',
       link: 'https://youtu.be/KxjsFIDhDeo',
     },
